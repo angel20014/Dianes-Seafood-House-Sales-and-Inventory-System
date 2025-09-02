@@ -1,7 +1,5 @@
 # Dianes-Seafood-House-Sales-and-Inventory-System
 
-# Diane's Grill Seafood House Sales and Inventory System
-
 This is a web-based **Sales and Inventory Management System** designed for **Diane's Grill Seafood House**.  
 It helps the business track daily sales, manage inventory levels, monitor product expiration, and generate reports efficiently.  
 The system is built to make operations smoother, reduce manual recording, and improve accuracy in sales and stock monitoring.
