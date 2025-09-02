@@ -1,0 +1,180 @@
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => NaN
+    [amountPaid] => 300
+    [changeAmount] => 5
+    [sales] => [{"product_name":"Coke","quantity":5,"price":59,"total":295}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => NaN
+    [amountPaid] => 300
+    [changeAmount] => 5
+    [sales] => [{"product_name":"Coke","quantity":5,"price":59,"total":295}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 0
+    [amountPaid] => NaN
+    [changeAmount] => NaN
+    [sales] => []
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 0
+    [amountPaid] => NaN
+    [changeAmount] => NaN
+    [sales] => []
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 796
+    [amountPaid] => 1000
+    [changeAmount] => 204
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":4,"total":199}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 177
+    [amountPaid] => 200
+    [changeAmount] => 23
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":3,"total":59}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 177
+    [amountPaid] => 200
+    [changeAmount] => 23
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":3,"total":59}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 177
+    [amountPaid] => 200
+    [changeAmount] => 23
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":3,"total":59}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => 177
+    [amountPaid] => 200
+    [changeAmount] => 23
+    [sales] => [{"product_name":"9/27/2024","quantity":null,"price":3,"total":59}]
+)
+Array
+(
+    [orderType] => Dine In
+    [customerType] => Regular
+    [totalAmount] => NaN
+    [amountPaid] => 200
+    [changeAmount] => 1
+    [sales] => [{"product_name":"Lemon Chicken","quantity":1,"price":199,"total":199}]
+)
