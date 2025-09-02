@@ -1,1 +1,1 @@
-# dianes-seafood-house-sales-and-inventory-system
+# Dianes-Seafood-House-Sales-and-Inventory-System
